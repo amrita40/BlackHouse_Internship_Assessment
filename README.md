@@ -34,6 +34,21 @@ This assessment demonstrates my ability to:
 ### 📈 Sample Visualization
 📍 Each plot shows the relationship between signed trade volume and short-term price movement, capturing market impact.
 
+## 📈 Visual Results
+
+### 🔹 CRWV: Market Impact Plot  
+![CRWV Market Impact](https://github.com/amrita40/BlackHouse_Internship_Assessment/blob/main/crwv_result.png)
+
+---
+
+### 🔹 FROG: Market Impact Plot  
+![FROG Market Impact](https://github.com/amrita40/BlackHouse_Internship_Assessment/blob/main/frog_result.png)
+
+---
+
+### 🔹 SOUN: Market Impact Plot  
+![SOUN Market Impact](https://github.com/amrita40/BlackHouse_Internship_Assessment/blob/main/soun_result.png)
+
 
 ### 📌 Key Insights
 Ticker	Market Impact (β)	Interpretation
